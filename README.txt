@@ -1,1 +1,1 @@
-Hi
+Hello, this is the content of the new file. Added via MCP
